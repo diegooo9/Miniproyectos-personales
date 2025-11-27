@@ -3,3 +3,4 @@
 ├── optimizacion_no_convexa/
 │   ├── modelo.ipynb
 │   └── README.md
+proyecto1/datos/
